@@ -22,5 +22,12 @@ namespace StringBuilder.Entities
             Content = content;
             Likes = likes;
         }
+
+        public void AddComment(Comment comment)
+        {
+            Comments.Add(comment);
+        }
+
+
     }
 }
