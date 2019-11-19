@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace StringBuilder.Entities
+namespace UsingStringBuilder.Entities
 {
     class Post
     {
@@ -32,6 +32,5 @@ namespace StringBuilder.Entities
         {
             Comments.Remove(comment);
         }
-
     }
 }

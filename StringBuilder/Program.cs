@@ -1,7 +1,7 @@
 ﻿using System;
-using StringBuilder.Entities;
+using UsingStringBuilder.Entities;
 
-namespace StringBuilder
+namespace UsingStringBuilder
 {
     class Program
     {
