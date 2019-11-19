@@ -28,6 +28,10 @@ namespace StringBuilder.Entities
             Comments.Add(comment);
         }
 
+        public void RemoveComment(Comment comment)
+        {
+            Comments.Remove(comment);
+        }
 
     }
 }
